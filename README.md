@@ -12,10 +12,13 @@ The difference between
 
 --yarn start
 
-index-class.tsx
+*index-class.tsx
+
 Component<P, S> Component has the prop and state. Annotation for the generic. P is the first parameter for props. S is the second parameter for the state. State is Readonly<S>
 
-index-function.tsx
+*index-function.tsx
+
 If It isn't receiving any props on App, if you have props inside of the function, make aoptional your property inside of the interface.
 
+--yarn add redux react-redux
 
