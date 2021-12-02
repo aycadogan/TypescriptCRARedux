@@ -35,6 +35,6 @@ class App extends Component<AppProps> {
 }
 
 ReactDOM.render(
-    <App color = 'red'/>, 
+    <App color = 'red class'/>, 
     document.getElementById('root')
 )
