@@ -22,3 +22,7 @@ If It isn't receiving any props on App, if you have props inside of the function
 
 --yarn add redux react-redux
 
+--yarn add axios
+
+--yarn add redux-thunk
+
